@@ -1,12 +1,11 @@
 //
-//  Reminders.swift
+//  Reminder.swift
 //  Today
 //
-//  Created by min seok Kim on 4/19/24.
+//  Created by min seok Kim on 4/18/24.
 //
 
 import Foundation
-
 
 struct Reminder {
     var title: String

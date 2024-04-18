@@ -1,8 +1,8 @@
 //
-//  ViewController.swift
+//  ReminderListViewController.swift
 //  Today
 //
-//  Created by min seok Kim on 4/17/24.
+//  Created by min seok Kim on 4/19/24.
 //
 
 import UIKit
